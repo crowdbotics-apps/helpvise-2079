@@ -1,0 +1,3 @@
+rootProject.name = 'helpvise_2079'
+
+include ':app'
